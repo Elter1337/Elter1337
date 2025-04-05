@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on Rage.
 - 🌱 I’m currently learning JavaScript. 
-- 📞 Contact: [Email](hxcker1337@outlook.com)
+- 📞 Contact: [Email](elter1337@outlook.com)
 
 ## 🧰 Languages and Tools:
 <p align="center">
